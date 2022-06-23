@@ -1,0 +1,176 @@
+Meeting Minutes lasted about 30 minutes to discuss where we are and where we want to be:
+Attendance: 9/21/17
+ Carmen Huang
+ Anastasia Mangafas 'M'
+ Leslie Aleluia Sequeira
+ Haojiang Luo
+ Shenghang Wang
+
+Tasks:
+Was first meeting had not completed much but read directions to project and learned how to play each game
+and how the piles were similar and different for each game. N/A
+
+Tasks worked on:
+Didn't have any tasks completed as previously mentioned since was first meeting. N/A
+
+Goals for next meeting:
+To have all the classes created and beginning code for each class
+
+Schedule:
+Meeting tomorrow on 9/22/17 where all will attend around 5 pm in lockwood
+
+Meeting Minutes lasted about 30 minutes to discuss where we are and where we want to be
+Attendance: 9/22/17
+Carmen Huang
+Anastasia Mangafas 'M'
+Leslie Aleluia Sequeira
+Haojiang Luo
+Shenghang Wang
+
+Tasks Completed:
+Tableau Pile classes, Deck, Card and Freecell
+
+Tasks Worked on:
+About 1/3 of way done with rest of code for all our other classes and piles. But haven't started to work on test cases yet
+
+Goals for next meeting:
+Finish the code and then start to work on tests
+
+Schedule:
+Meeting 9/28/17 where all will attend around 6 pm in capen
+
+Meeting Minutes lasted about 30 minutes to discuss where we are and where we want to be
+Attendance: 9/28/17
+Carmen Huang
+Anastasia Mangafas 'M'
+Leslie Aleluia Sequeira
+Haojiang Luo
+Shenghang Wang
+ 
+ Tasks Completed:
+ All classes included all piles have been completed
+ 
+ Tasks Worked on:
+ Tests for Tableau Piles and Homecell Piles are being worked on but not yet for Freeceell Pile tests nor
+ have we started to write our java docs.
+ 
+ Goals for next Meeting:
+ To have functionality on our current tests since at the moment all but two fail and finish the freecell pile tests
+ 
+ Schedule:
+ Meeting tomorrow 9/29/17 where all will attend at 5 pm in capen 3rd floor
+ 
+ Meeting Minutes lasted about 30 minutes to discuss where we are and where we want to be
+Attendance: 9/29/17
+Carmen Huang
+Anastasia Mangafas 'M'
+Leslie Aleluia Sequeira
+Haojiang Luo
+Shenghang Wang
+ 
+ Tasks Completed:
+ Have successfully completed all test cases!!! And more than half of java docs include Baker_Dozen, Card,
+ Deck and Freecell
+ 
+ Tasksed worked on:
+ Started java docs in all pile classes just need to be finished
+ 
+ Goals for next meeting:
+ To have finished java doc but no meeting necessary as this can be done separately as code is all done and 
+ tests are successful
+ 
+ Schedule:
+ N/A because project is 98% done!
+ 
+ Attendance: 10/5/17
+ Carmen Huang
+ Anastasia Mangafas 'M'
+ Leslie Aleluia Sequeira
+ Haojiang Luo
+ Shenghang Wang
+ 
+ Tasked Completed: Started GUI class and created JPanels and the border for both games
+ Tasked Worked On: Got all the piles to correctly appear on screen 
+ Goals for Next Meeting: be able to successful move a card from one pile to the next
+ Schedule: Will meet on 10/13
+ 
+ Attendance: 10/13/17
+ Carmen Huang
+ Anastasia Mangafas 'M'
+ Leslie Aleluia Sequeira
+ Haojiang Luo
+ Shenghang Wang
+ 
+ Tasked Completed: made changes to updateF() and update BD()
+ Tasked Worked On:background text for homecell and freecell pile
+ Goals for Next Meeting: work more on BD
+ Schedule: Will meet on 10/20
+ 
+ Attendance: 10/20/17
+ Carmen Huang
+ Anastasia Mangafas 'M'
+ Leslie Aleluia Sequeira
+ Haojiang Luo
+ Shenghang Wang
+ 
+ Tasked Completed:Finished BD
+ Tasked Worked On: Finished the mouseListener
+ Goals for Next Meeting: Have everything done besides java docs
+ Schedule: Will meet on 10/27
+ 
+ Attendance: 10/27/17
+ Carmen Huang
+ Anastasia Mangafas 'M'
+ Leslie Aleluia Sequeira
+ Haojiang Luo
+ Shenghang Wang
+ 
+ Task completed: fixed all test cases 
+ Tasked worked on: completed overlapping method to work successfully
+ Goals for next meeting: Finish java doc but actual code is complete
+ Schedule: N/A because project is complete
+ 
+ //Phase 3 meeting minutes
+
+Attendance: 11/5/16
+ Carmen Huang
+ Anastasia Mangafas 'M'
+ Leslie Aleluia Sequeira
+ Haojiang Luo
+ Shenghang Wang
+Tasked Completed:
+Have the correct layout for Aces up and have cards displaying correctly
+
+Tasks worked on:
+worked on Tableau pile
+
+
+Goals for next meeting:
+Finish Tableau pile and homecell and most of stock pile.
+
+
+Schedule:
+Meet again in about 2 weeks.
+
+
+Attendance: 11/30/17
+ Carmen Huang
+ Anastasia Mangafas 'M'
+ Leslie Aleluia Sequeira
+ Haojiang Luo
+ Shenghang Wang
+
+
+Tasked Completed:
+Meet our goal of finishing tableau pile and homecell as well as most of JUnit tests.
+
+Tasks worked on:
+finished sotck pile.
+
+
+Goals for next meeting:
+None because project is 95% done just have two more JUnit tests to work on.
+
+Schedule:
+N/A
+
